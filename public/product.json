@@ -1,0 +1,215 @@
+[
+  {
+    "product_id": 1,
+    "name": "Smartphone",
+    "description": "High-end smartphone with advanced features.",
+    "price": 599.99,
+    "unit": "Piece",
+    "image": "https://img.freepik.com/premium-psd/black-smartphone-mockup-your-design_34168-2405.jpg?w=740",
+    "discount": 10,
+    "availability": true,
+    "brand": "BrandX",
+    "category": "Electronics",
+    "rating": 4.5,
+    "reviews": [
+      {
+        "user_id": 1,
+        "rating": 5,
+        "comment": "Great phone with a superb camera!"
+      },
+      {
+        "user_id": 2,
+        "rating": 4,
+        "comment": "Good performance, but the battery life could be better."
+      }
+    ]
+  },
+  {
+    "product_id": 2,
+    "name": "Laptop",
+    "description": "Powerful laptop for work and gaming.",
+    "price": 999.99,
+    "unit": "Piece",
+    "image": "https://img.freepik.com/free-photo/laptop-with-blank-black-screen-white-table_53876-97915.jpg?w=740&t=st=1703699301~exp=1703699901~hmac=58bc33471b26df83f4a60c316979c29db4cbeb9b117a6fa97f3da118e8a86cc7",
+    "discount": 5,
+    "availability": true,
+    "brand": "BrandY",
+    "category": "Electronics",
+    "rating": 4.7,
+    "reviews": [
+      {
+        "user_id": 3,
+        "rating": 5,
+        "comment": "Excellent laptop for gaming and work tasks."
+      },
+      {
+        "user_id": 4,
+        "rating": 4,
+        "comment": "Good value for the price."
+      }
+    ]
+  },
+  {
+    "product_id": 3,
+    "name": "Wireless Headphones",
+    "description": "Premium wireless headphones with noise-cancellation.",
+    "price": 149.99,
+    "unit": "Piece",
+    "image": "https://img.freepik.com/free-photo/black-headphones-digital-device_53876-96805.jpg?w=740&t=st=1703699433~exp=1703700033~hmac=ce74bd6a09e7100bff937443c2a5e7b4a2fc60dc606b1a0ae9225ab4dad2843f",
+    "discount": 15,
+    "availability": true,
+    "brand": "SoundMasters",
+    "category": "Electronics",
+    "rating": 4.8,
+    "reviews": [
+      {
+        "user_id": 5,
+        "rating": 5,
+        "comment": "Top-notch sound quality and comfort."
+      },
+      {
+        "user_id": 6,
+        "rating": 4,
+        "comment": "Impressive noise-cancellation, but a bit pricey."
+      }
+    ]
+  },
+  {
+    "product_id": 4,
+    "name": "Smartwatch",
+    "description": "Feature-packed smartwatch with fitness tracking.",
+    "price": 199.99,
+    "unit": "Piece",
+    "image": "https://img.freepik.com/free-vector/smart-watch-realistic-image-black_1284-11873.jpg?w=740&t=st=1703699461~exp=1703700061~hmac=ee617baa020838172739bf63c3c54a2b36475df84fc2ed8a9e519856824975ba",
+    "discount": 10,
+    "availability": true,
+    "brand": "TechWear",
+    "category": "Wearables",
+    "rating": 4.6,
+    "reviews": [
+      {
+        "user_id": 7,
+        "rating": 4,
+        "comment": "Great value for the features it offers."
+      },
+      {
+        "user_id": 8,
+        "rating": 5,
+        "comment": "Sleek design and accurate fitness tracking."
+      }
+    ]
+  },
+  {
+    "product_id": 5,
+    "name": "Professional DSLR Camera",
+    "description": "High-quality DSLR camera for photography enthusiasts.",
+    "price": 499.99,
+    "unit": "Piece",
+    "image": "https://img.freepik.com/free-photo/high-angle-photo-camera-indoors-still-life_23-2150630966.jpg?w=740&t=st=1703700221~exp=1703700821~hmac=738493201511ce6230330a8a919e18f9875b19a6e7730f8001c602e147d6f9ce",
+    "discount": 5,
+    "availability": true,
+    "brand": "PhotoPro",
+    "category": "Cameras",
+    "rating": 4.9,
+    "reviews": [
+      {
+        "user_id": 9,
+        "rating": 5,
+        "comment": "Exceptional image quality and versatility."
+      },
+      {
+        "user_id": 10,
+        "rating": 4,
+        "comment": "A bit heavy, but the results are worth it."
+      }
+    ]
+  },
+  {
+    "product_id": 6,
+    "name": "Smart TV",
+    "description": "High-definition smart TV with built-in streaming apps.",
+    "price": 799.99,
+    "unit": "Piece",
+    "image": "https://img.freepik.com/free-photo/modern-domestic-room-with-technology-nature-accents-generative-ai_188544-19467.jpg?w=826&t=st=1703702500~exp=1703703100~hmac=dffa8bb093d9698fb14d739923348b8e228013b57d83bd043fdf65a94d358e65",
+    "discount": 8,
+    "availability": true,
+    "brand": "ViewTech",
+    "category": "Electronics",
+    "rating": 4.7,
+    "reviews": [
+      {
+        "user_id": 11,
+        "rating": 5,
+        "comment": "Stunning picture quality and user-friendly interface."
+      },
+      {
+        "user_id": 12,
+        "rating": 4,
+        "comment": "A great addition to our home entertainment setup."
+      }
+    ]
+  },
+  {
+    "product_id": 7,
+    "name": "Tablet",
+    "description": "Compact tablet for productivity and entertainment.",
+    "price": 299.99,
+    "unit": "Piece",
+    "image": "https://img.freepik.com/free-vector/digital-device-mockup_53876-89357.jpg?w=740&t=st=1703699493~exp=1703700093~hmac=206ceddf66b873fd9fdad816a93475e3515d1f9cc92ee8a9334c859ff5a4530f",
+    "discount": 12,
+    "availability": true,
+    "brand": "TabTech",
+    "category": "Electronics",
+    "rating": 4.4,
+    "reviews": [
+      {
+        "user_id": 13,
+        "rating": 4,
+        "comment": "Good value for the price, but the battery life could be better."
+      },
+      {
+        "user_id": 14,
+        "rating": 5,
+        "comment": "Ideal for both work and entertainment on the go."
+      }
+    ]
+  },
+  {
+    "product_id": 8,
+    "name": "Gaming Console",
+    "description": "Next-gen gaming console for immersive gaming.",
+    "price": 399.99,
+    "unit": "Piece",
+    "image": "https://img.freepik.com/free-photo/laptop-with-joystick_144627-12150.jpg?w=740&t=st=1703699548~exp=1703700148~hmac=c5497529442cb933acb5c62690918ee67b1a54b5308e31ee3e8130714e6fbb4d",
+    "discount": 10,
+    "availability": true,
+    "brand": "GameX",
+    "category": "Gaming",
+    "rating": 4.8,
+    "reviews": [
+      {
+        "user_id": 15,
+        "rating": 5,
+        "comment": "Incredible gaming performance and graphics."
+      },
+      {
+        "user_id": 16,
+        "rating": 4,
+        "comment": "A must-have for gaming enthusiasts."
+      }
+    ]
+  },
+  {
+    "product_id": 9,
+    "name": "Energy-Efficient Refrigerator",
+    "description": "Modern refrigerator with energy-saving features.",
+    "price": 599.99,
+    "unit": "Piece",
+    "image": "https://img.freepik.com/free-photo/refrigerator-surrounded-by-nature-scene_23-2150165603.jpg?w=740&t=st=1703699844~exp=1703700444~hmac=f0305b1c61c3ab24cecb01a9bc4f1b540997c5acc588e6c7944f832c40c74f8a",
+    "discount": 5,
+    "availability": true,
+    "brand": "CoolTech",
+    "category": "Appliances",
+    "rating": 4.6
+  }
+]
