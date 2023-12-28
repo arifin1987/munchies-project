@@ -22,4 +22,4 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 # Trending products are displaying on home page. If anyone click view details button then prodcut details will be shown.
 
-Live web
+Live link: https://munchies-project.vercel.app/
