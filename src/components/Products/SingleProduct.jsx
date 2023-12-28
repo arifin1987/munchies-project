@@ -13,9 +13,12 @@ const SingleProduct = ({ item }) => {
         price: <span className="font-bold">${price}</span>{" "}
       </p>
 
-      <button className="btn btn-outline border-0 border-b-4">
-        <Link href={`/trending/${id}`}>View Details</Link>
-      </button>
+      <Link
+        className="btn btn-outline border-0 border-b-4"
+        href={`/trending/${id}`}
+      >
+        View Details
+      </Link>
     </div>
   );
 };
